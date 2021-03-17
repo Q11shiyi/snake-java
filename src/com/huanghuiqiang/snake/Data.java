@@ -34,4 +34,9 @@ public class Data {
      */
     public static URL foodUrl = Data.class.getResource("/statics/food.png");
     public static ImageIcon food = new ImageIcon(foodUrl);
+    /**
+     * 爆炸
+     */
+    public static URL boomUrl = Data.class.getResource("/statics/boom.png");
+    public static ImageIcon boom = new ImageIcon(boomUrl);
 }

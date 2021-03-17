@@ -137,6 +137,7 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
         }
         //失败判断
         if (isFail){
+            Data.boom.paintIcon(this,g,snakeX[0],snakeY[0]);
             g.setColor(Color.RED);
             g.setFont(new Font("微软雅黑",Font.BOLD,40));
             g.drawString("失败, 按下空格重新开始",200,300);
