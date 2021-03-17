@@ -11,5 +11,5 @@
 
 #### 使用说明
 
-1.  java -jar snake.jar 启动游戏
+1.  java -jar snake-java.jar 启动游戏
 
