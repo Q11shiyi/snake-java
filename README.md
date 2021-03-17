@@ -379,3 +379,5 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
 ![image-20210317214914503](https://gitee.com/hhq11/img/raw/master/img/20210317214914.png)
 
 - java -jar snake-java.jar
+
+
